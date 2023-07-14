@@ -1,0 +1,104 @@
+body {
+  font-family: "Fira Sans Condensed", sans-serif;
+  width: 70%;
+  margin: 0 auto;
+}
+.large {
+  font-size: 40px;
+}
+.checked {
+  color: orange;
+}
+.first-sec {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.div-1 {
+  width: 40%;
+  margin-top: 20px;
+  gap: 0%;
+}
+.set-up {
+  margin-top: 50px;
+}
+.star-1 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.bcolor {
+  background-color: rgb(244, 241, 246);
+  border-radius: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.ccolor {
+  background-color: rgb(244, 241, 246);
+  margin-right: -40px;
+  margin-left: 40px;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.dcolor {
+  background-color: rgb(244, 241, 246);
+  margin-left: 80px;
+  margin-right: -80px;
+  margin-top: 20px;
+  border-radius: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.color {
+  color: purple;
+}
+.purple {
+  color: rgb(178, 141, 202);
+}
+.sec-1 {
+  display: flex;
+
+  gap: 30px;
+  margin-bottom: 80px;
+}
+.background-1 {
+  background-color: rgb(65, 4, 65);
+  padding: 30px;
+  border-radius: 10px;
+}
+.picture {
+  border-radius: 100px;
+  width: 50px;
+}
+.white {
+  color: whitesmoke;
+  margin-top: 10px;
+}
+.background-2 {
+  background-color: rgb(65, 4, 65);
+  padding: 30px;
+  border-radius: 10px;
+}
+.background-3 {
+  background-color: rgb(65, 4, 65);
+  padding: 30px;
+  border-radius: 10px;
+}
+.pink {
+  color: rgb(163, 47, 85);
+}
+.finish-1 {
+  margin-top: 50px;
+}
+.finish-2 {
+  margin-top: 80px;
+}
+.finish-3 {
+  margin-top: 110px;
+}
+.sec-9 {
+  display: flex;
+  gap: 20px;
+}
